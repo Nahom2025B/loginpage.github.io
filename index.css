@@ -1,0 +1,66 @@
+html{
+    width: 100%;
+    height: 100%;
+}
+
+.logo{
+    width: 40px;
+    height: 40px;
+}
+.selcolor{
+    
+    color: #017E89;
+    padding: 7px;
+    border: transparent;
+    
+}
+
+.card{
+    max-width: 600px;
+    max-height: 500px;
+    border: 1px blur black;
+}
+
+.logo2{
+    height: 40px;
+    width: 100px;
+}
+
+.center-card{
+    padding: auto;
+}
+
+.myfont{
+    font-size: 1.1em;
+    font-family: sans-serif;
+    color: grey;
+    font-weight: bold;
+
+}
+.aclass{
+    color: #017E89;
+}
+.myp{
+    font-size: 1.1em;
+    font-weight: bold;
+}
+.fieldbox{
+    margin:0px 30px;
+    padding: 9px;
+    font-size: 1.1em;
+}
+
+.btn-1{
+    margin: 0px 30px;
+    padding: 7px;
+    background-color: #017E89;
+    border-radius: 5px;
+    border: none;
+    color: aliceblue;
+}
+
+.btn-2{
+    padding: 7px ;
+    background-color: transparent;
+    border-radius: 20px;
+}
